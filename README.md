@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy OC</h1>
 <h3 align="center">Buscandome la manera de vivir del cuento</h3>
 
-- 🔭 Trabajar? esa no me la sé [a](a)
+- 🔭 Trabajar? esa no me la sé 
 
-- 🌱 Actualmente estoy estudiando **a**
+- 🌱 Actualmente estoy estudiando 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ocristo" alt="ocristo" /></a> </p>
 
