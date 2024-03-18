@@ -1,24 +1,15 @@
-<h1 align="center">Hola, Bienvenido a mi perfil</h1>
-<h3 align="center"></h3>
+<h1 align="center">Hola 👋, Soy OC</h1>
+<h3 align="center">Buscandome la manera de vivir del cuento</h3>
 
-### 👩🏽‍💻 Sobre mí
-- 🌱 Actualmente curso Desarrollo de Aplicaciones Web https://www.ucam.edu/
-- 👯 .
- 
+- 🔭 Trabajar? esa no me la sé [a](a)
 
-#
+- 🌱 Actualmente estoy estudiando **a**
 
-### 🛠 Conocimiento
-<p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ocristo" alt="ocristo" /></a> </p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" width="50" height="50"/>
-</p>
 
-#
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-### ☕ Contacto
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ocristo&show_icons=true&locale=en&layout=compact" alt="ocristo" /></p>
 
-<a href="https://www.linkedin.com/in/ruth-conde-alem%C3%A1n-a7a623268/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>
-
-#
